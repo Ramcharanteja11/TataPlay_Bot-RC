@@ -1,10 +1,10 @@
-api_id = 17193413
+api_id = 10982443
 
-api_hash = "5e50e6380252d9d487093bae4171bf91"
+api_hash = "faf524527491b9b3ff5dde3cfa6b0558"
 
-bot_token = "6094200729:AAF7U2jM_T35Wb4nWdvPdndFNjtZ7oQeTTA"
+bot_token = "6659779436:AAESmGeAqgaapBy6rhhJbWm6M8J3tRh0uwk"
 
-GROUP_TAG = "RC"
+GROUP_TAG = "RCT"
 
 sudo_users = [1606667548]
 
