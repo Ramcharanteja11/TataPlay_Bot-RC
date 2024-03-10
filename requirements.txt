@@ -1,7 +1,1 @@
-pyrogram
-tgcrypto
-requests
-hachoir
-pytz
-hachoir
-ffmpeg-python
+worker: python3 update.py && python3 -m bot
